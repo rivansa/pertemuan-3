@@ -1,0 +1,12 @@
+# pertemuan-3
+![3 1](https://user-images.githubusercontent.com/96457773/148052123-9b5e9719-4976-4342-80f3-ff524ea956eb.PNG)
+![3 2](https://user-images.githubusercontent.com/96457773/148052138-c2a6c52d-7634-4a6e-92d6-55a924d1d1b7.PNG)
+![3 3](https://user-images.githubusercontent.com/96457773/148052164-c40415d6-169d-4e9a-9836-9a2bb03845ec.PNG)
+![3 3 bagian 2](https://user-images.githubusercontent.com/96457773/148052175-fb99a392-ea47-4be2-99fd-d9dcf44e3b2e.PNG)
+![3 4](https://user-images.githubusercontent.com/96457773/148052194-81540204-868b-420d-b103-d999da374808.PNG)
+![3 4 bagian 2](https://user-images.githubusercontent.com/96457773/148052208-7e9d3df0-168a-41d4-a4e9-f152267cd040.PNG)
+![manytomany](https://user-images.githubusercontent.com/96457773/148052235-3b3fcf90-b59d-4be6-9ac8-4989b8bed039.PNG)
+![manytomany 2](https://user-images.githubusercontent.com/96457773/148052245-1348ebf4-f5f6-4449-aca2-10d55cf600c6.PNG)
+![manytomany 3](https://user-images.githubusercontent.com/96457773/148052254-c8d9e417-418a-4666-b3fc-f5ac90a9e03a.PNG)
+![manytomany 4](https://user-images.githubusercontent.com/96457773/148052261-44e67202-c54e-4672-b23a-afa4cd0336b9.PNG)
+![onetomany](https://user-images.githubusercontent.com/96457773/148052276-744d6cb5-1e8a-4fab-bc54-6c5903df9e37.PNG)
